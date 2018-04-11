@@ -1,0 +1,9 @@
+insert into actor (actor_id, first_name, last_name, last_update) values (1, 'Penelope', 'Guiness', '2008-11-11');
+insert into actor (actor_id, first_name, last_name, last_update) values (2, 'Nick', 'Wahlberg', '2008-11-11');
+insert into actor (actor_id, first_name, last_name, last_update) values (3, 'Julio', 'Serrano', '2008-11-11');
+insert into actor (actor_id, first_name, last_name, last_update) values (5, 'Jennifer', 'Davis', '2008-11-11');
+insert into actor (actor_id, first_name, last_name, last_update) values (6, 'Johnny', 'Lollobrigida', '2008-11-11');
+insert into actor (actor_id, first_name, last_name, last_update) values (7, 'Bete', 'Nicholson', '2008-11-11');
+insert into actor (actor_id, first_name, last_name, last_update) values (8, 'Ivette', 'Lavedet', '2008-11-11');
+insert into actor (actor_id, first_name, last_name, last_update) values (9, 'Grace', 'Mostel', '2008-11-11');
+insert into actor (actor_id, first_name, last_name, last_update) values (10, 'Matthew', 'Johansson', '2008-11-11');
